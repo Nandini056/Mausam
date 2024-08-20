@@ -15,7 +15,6 @@ A Flutter-based weather app that provides location-based weather updates with a 
 - **Language:** Dart
 - **Packages:** Geolocator, HTTP
 
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
